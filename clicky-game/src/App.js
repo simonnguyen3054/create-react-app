@@ -1,6 +1,6 @@
 import React from "react";
-import Images from "./components/Images";
+import Game from "./components/Game.js";
 
-const App = () => <Images />;
+const App = () => <Game />;
 
 export default App;
